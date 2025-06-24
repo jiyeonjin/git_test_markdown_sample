@@ -2,8 +2,7 @@
 
 ## 1. About GitHub, Markdown, Colab
 - [GitHub 사용법](#github-사용법)
-- [Markdown 문법](#markdown-문법)  
-- [Colab 기초](#colab-기초)
+
 
 ## GitHub 사용법
 
@@ -41,7 +40,9 @@
 6. **Create repository 버튼 클릭**
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
-  
+
+  - [Markdown 문법](#markdown-문법)  
+
 ## Markdown 문법
 ---
 ## 🔰 1. 마크다운(Markdown)이란?
@@ -79,7 +80,7 @@ GitHub에서는 `README.md` 파일을 통해 마크다운을 많이 사용합니
 
 
 
-
+- [Colab 기초](#colab-기초)
 
 ## Colab 기초  
 (여기에 Colab 내용 작성)
