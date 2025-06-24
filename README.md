@@ -96,7 +96,7 @@ GitHub에서는 `README.md` 파일을 통해 마크다운을 많이 사용합니
 ## 코드 예시
 ```python
 print("Hello Markdown!")
-````
+```
 
 
 
