@@ -43,11 +43,7 @@
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
   
 ## Markdown 문법
-
-물론이죠! 😊 초보자도 쉽게 따라할 수 있도록 **GitHub에서 마크다운(Markdown)** 사용하는 방법을 단계별로 설명해드릴게요.
-
 ---
-
 ## 🔰 1. 마크다운(Markdown)이란?
 
 Markdown은 글을 **쉽게 꾸미기 위한 문법**이에요. HTML보다 간단하게 **제목, 목록, 굵은 글씨, 링크, 코드블록** 등을 작성할 수 있어요.
@@ -102,29 +98,6 @@ GitHub에서는 `README.md` 파일을 통해 마크다운을 많이 사용합니
 print("Hello Markdown!")
 ````
 
-```
-
----
-
-## 🎯 5. 마크다운 연습해보기
-
-1. GitHub에 로그인
-2. 새 레포지토리 만들기
-3. `README.md` 파일 생성
-4. 위 내용을 복사해서 붙여넣기
-5. 저장하고 미리보기에서 결과 확인
-
----
-
-## 📚 추가자료
-
-- [마크다운 치트시트 (GitHub 공식)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-- [마크다운 실시간 미리보기 연습 사이트](https://dillinger.io/)
-
----
-
-필요하다면 마크다운 예제 파일도 만들어드릴 수 있어요. 혹시 특별히 만들고 싶은 문서(예: 자기소개서, 프로젝트 설명 등)가 있나요? 😊
-```
 
 
 ## Colab 기초  
